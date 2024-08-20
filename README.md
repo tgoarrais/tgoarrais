@@ -1,18 +1,22 @@
-### Olá! Sou o Thiago Arrais e é um prazer te-lo aqui! 
-### Desenvolvedor Java
-#
+## Olá! Sou o Thiago Arrais e é um prazer te-lo aqui! 
+
+### Desenvolvedor Backend 
+
+## Conecte-se Comigo
+
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tgoarrais/)
-[![KAGGLE](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/tgoarrais)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tgoarrais/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/arraistech)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tgoarrais)
-#
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:t.arrais@outlook.com)
+
 ## Hard Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Python" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	
-#
-	
+  #
+
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -46,7 +50,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgoarrais&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
-##
+#
 
 # ORA ET LABORA!
 
