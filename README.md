@@ -1,4 +1,4 @@
-# Software Engineer / backend Java
+# Software Engineer / Backend Java
 
 ## Conecte-se Comigo
 
