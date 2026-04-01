@@ -1,13 +1,13 @@
 # Software Engineer / Backend Java
 
-## Conecte-se Comigo
+### Conecte-se Comigo
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tgoarrais/)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tgoarrais/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/arraistech)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@instintodev)
 
-## Hard Skills
+### Hard Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Python" height="100" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
